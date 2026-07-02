@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB">
   </a>
   <a href="https://www.linkedin.com/in/ashish-pal-635a02380">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.icons8.com/ios-glyphs/30/228BE6/linkedin.png">
   </a>
   <a href="https://www.instagram.com/_ashish.pal_23?igsh=bmJzeHRkd2g2Y28=">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB">
@@ -71,7 +71,7 @@ I'm always happy to talk about web development, coding, or internship opportunit
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ashish-pal-635a02380">
-<img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.icons8.com/ios-glyphs/30/228BE6/linkedin.png"/>
 </a>
 <a href="https://github.com/AshishPal80">
 <img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB"/>
