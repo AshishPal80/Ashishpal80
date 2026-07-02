@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ashish Pal ðŸŽ“</h1>
+<h1 align="center">Hey, I'm Ashish Pal :mortar_board:</h1>
 <h3 align="center">A BCA 1st-year student on a mission to become a Web Developer</h3>
 
 <p align="center">
@@ -17,16 +17,16 @@
 
 | | |
 |---|---|
-| ðŸŽ“ Education | BCA 1st Year |
-| ðŸ’» Known Languages | C, HTML, CSS |
-| ðŸŒ Currently Learning | JavaScript, React, Databases |
-| ðŸ¤– Exploring | AI Tools |
-| ðŸŽ¯ Goal | Internship / Entry-level role in Software Development |
-| â­ Interests | Coding, Web Development, Problem-Solving, Continuous Learning |
+| :mortar_board: Education | BCA 1st Year |
+| :computer: Known Languages | C, HTML, CSS |
+| :globe_with_meridians: Currently Learning | JavaScript, React, Databases |
+| :robot: Exploring | AI Tools |
+| :dart: Goal | Internship / Entry-level role in Software Development |
+| :star: Interests | Coding, Web Development, Problem-Solving, Continuous Learning |
 
 <br>
 
-## ðŸ“Œ A Bit More About Me
+## :pushpin: A Bit More About Me
 
 I'm just getting started on my coding journey, and I'm genuinely excited about it. Right now I'm sharpening my fundamentals in **C, HTML, and CSS**, while pushing forward into **JavaScript, React, and Databases** to become a well-rounded web developer. I also like to experiment with **AI tools** on the side.
 
@@ -61,9 +61,9 @@ I'm actively looking for an **internship or entry-level opportunity** where I ca
 
 <br>
 
-## ðŸ“« Let's Connect
+## :mailbox: Let's Connect
 
-I'm always happy to talk about web development, coding, or internship opportunities â€” feel free to reach out!
+I'm always happy to talk about web development, coding, or internship opportunities - feel free to reach out!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ashish-pal-635a02380">LinkedIn</a> Â·
@@ -72,4 +72,4 @@ I'm always happy to talk about web development, coding, or internship opportunit
 
 <br>
 
-<p align="center"><i>Thanks for stopping by â€” more projects coming soon! ðŸš€</i></p>
+<p align="center"><i>Thanks for stopping by - more projects coming soon! :rocket:</i></p>
