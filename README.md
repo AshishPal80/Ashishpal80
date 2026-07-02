@@ -73,8 +73,12 @@ I'm actively looking for an **internship or entry-level opportunity** where I ca
 I'm always happy to talk about web development, coding, or internship opportunities - feel free to reach out!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-pal-635a02380">LinkedIn</a> |
-<a href="https://github.com/AshishPal80">GitHub</a>
+<a href="https://www.linkedin.com/in/ashish-pal-635a02380">
+<img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/>
+</a>
+<a href="https://github.com/AshishPal80">
+<img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB"/>
+</a>
 </p>
 
 <br>
