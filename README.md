@@ -32,9 +32,6 @@
   </a>
 </p>
 
-
-<br>
-
 ## :bookmark_tabs: Profile Summary
 
 | | |
