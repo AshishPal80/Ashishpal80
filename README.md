@@ -1,75 +1,72 @@
-<h1 align="center">Hey, I'm Ashish Pal :mortar_board:</h1>
-<h3 align="center">A BCA 1st-year student on a mission to become a Web Developer</h3>
+<h1 align="center">Hi there, I'm Ashish Pal ðŸ‘‹</h1>
+
+<h3 align="center">A passionate BCA student exploring the world of Web Development</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Learning+JavaScript+%2B+React;Exploring+the+world+of+AI;Open+to+Internship+Opportunities!" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/ashish-pal-635a02380" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AshishPal80" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ashish-pal-635a02380"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
-<a href="https://github.com/AshishPal80"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"/></a>
-<img src="https://komarev.com/ghpvc/?username=AshishPal80&style=flat-square&color=blue"/>
-</p>
+---
 
-<br>
+### ðŸš€ About Me
 
-## ðŸ§¾ Profile Summary
+- ðŸŽ“ I am a **BCA 1st-year student**
+- ðŸ’» I know **C language, HTML, and CSS**
+- ðŸŒ± Currently learning **Web Development | JavaScript | React | Databases**
+- ðŸ¤– Exploring **AI tools**
+- ðŸ” Looking for **internship opportunities** to grow my skills in web development
+- ðŸ’¬ Ask me about **Coding, Web Development, or Problem-Solving**
 
-| | |
-|---|---|
-| :mortar_board: Education | BCA 1st Year |
-| :computer: Known Languages | C, HTML, CSS |
-| :globe_with_meridians: Currently Learning | JavaScript, React, Databases |
-| :robot: Exploring | AI Tools |
-| :dart: Goal | Internship / Entry-level role in Software Development |
-| :star: Interests | Coding, Web Development, Problem-Solving, Continuous Learning |
+---
 
-<br>
+### ðŸŽ¯ What I'm Looking For
 
-## :pushpin: A Bit More About Me
+I am looking for **internship or entry-level opportunities** that will allow me to **learn, contribute, and sharpen my skills** in software development.
 
-I'm just getting started on my coding journey, and I'm genuinely excited about it. Right now I'm sharpening my fundamentals in **C, HTML, and CSS**, while pushing forward into **JavaScript, React, and Databases** to become a well-rounded web developer. I also like to experiment with **AI tools** on the side.
+---
 
-I'm actively looking for an **internship or entry-level opportunity** where I can learn from experienced developers, contribute to real projects, and keep growing.
-
-<br>
-
-## ðŸ› ï¸ Tech Stack
+### ðŸ› ï¸ Tech Stack
 
 <p align="left">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Databases"/>
 </p>
 
-<br>
+---
 
-## ðŸ“Š GitHub Stats
+### ðŸ’¡ Interests
+
+`Coding` &nbsp;|&nbsp; `Web Development` &nbsp;|&nbsp; `Problem-Solving` &nbsp;|&nbsp; `Continuous Learning`
+
+---
+
+### ðŸ“Š GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AshishPal80&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishPal80&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishPal80&show_icons=true&theme=radical" alt="Ashish's GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishPal80&theme=radical" alt="Ashish's GitHub Streak" height="170"/>
 </p>
+
+---
+
+### ðŸ“« Connect With Me
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishPal80&theme=tokyonight&hide_border=true"/>
+  <a href="https://www.linkedin.com/in/ashish-pal-635a02380" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AshishPal80" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<br>
-
-## :mailbox: Let's Connect
-
-I'm always happy to talk about web development, coding, or internship opportunities - feel free to reach out!
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ashish-pal-635a02380">LinkedIn</a> Â·
-<a href="https://github.com/AshishPal80">GitHub</a>
-</p>
-
-<br>
-
-<p align="center"><i>Thanks for stopping by - more projects coming soon! :rocket:</i></p>
+<p align="center"><i>Thanks for visiting my profile! âœ¨</i></p>
