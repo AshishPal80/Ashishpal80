@@ -51,8 +51,8 @@ I'm actively looking for an **internship or entry-level opportunity** where I ca
 ## :bar_chart: GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshishPal80&theme=github_dark"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshishPal80&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshishPal80&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshishPal80&theme=tokyonight"/>
 </p>
 
 <p align="center">
