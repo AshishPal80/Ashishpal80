@@ -6,19 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:aminehamzaoui1926@gmail.com">
+  <a href="mailto:ashish1814pal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB">
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b">
+  <a href="https://www.linkedin.com/in/ashish-pal-635a02380">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB">
   </a>
-  <a href="https://www.instagram.com/a__m.i.n__e?igsh=MWY0M3hmMXd0OGxqNw==">
+  <a href="https://www.instagram.com/_.ashish.__23_?igsh=bmJzeHRkd2g2Y28=">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB">
   </a>
-  <a href="https://www.facebook.com/share/1EZqQrtBKf/">
-    <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB">
-  </a>
-  <a href="https://discord.com/users/805123459566010417">
+  <a href="https://discordapp.com/users/1105516195089764404">
     <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB">
   </a>
 </p>
