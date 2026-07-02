@@ -71,7 +71,7 @@ I'm always happy to talk about web development, coding, or internship opportunit
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ashish-pal-635a02380">
-<img src="https://img.icons8.com/ios-glyphs/30/228BE6/linkedin.png">
+<img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB">
 </a>
 <a href="https://github.com/AshishPal80">
 <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB">
