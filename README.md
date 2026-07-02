@@ -6,9 +6,13 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-pal-635a02380"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
-<a href="https://github.com/AshishPal80"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"/></a>
-<img src="https://komarev.com/ghpvc/?username=AshishPal80&style=flat-square&color=blue"/>
+<a href="https://www.linkedin.com/in/ashish-pal-635a02380" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/AshishPal80" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=AshishPal80&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS"/>
 </p>
 
 <br>
