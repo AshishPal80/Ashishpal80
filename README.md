@@ -6,14 +6,32 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-pal-635a02380" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/AshishPal80" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=AshishPal80&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS"/>
+  <a href="mailto:aminehamzaoui1926@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b">
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.instagram.com/a__m.i.n__e?igsh=MWY0M3hmMXd0OGxqNw==">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.facebook.com/share/1EZqQrtBKf/">
+    <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
+  </a>
+  <a href="https://discord.com/users/805123459566010417">
+    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Saboo24">
+    <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
+  </a>
+  <a href="https://github.com/Saboo24">
+    <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" />
+  </a>
+</p>
+
 
 <br>
 
@@ -53,11 +71,6 @@ I'm actively looking for an **internship or entry-level opportunity** where I ca
 <br>
 
 ## :bar_chart: GitHub Stats
-
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshishPal80&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshishPal80&theme=tokyonight"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=AshishPal80&theme=tokyonight&hide_border=true"/>
