@@ -9,7 +9,9 @@
   <a href="mailto:ashish1814pal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB">
   </a>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](https://linkedin.com/in/yourusername)
+  <a href="https://www.linkedin.com/in/ashish-pal-635a02380">
+    <img src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](https://linkedin.com/in/yourusername)">
+  </a>
   <a href="https://www.instagram.com/_ashish.pal_23?igsh=bmJzeHRkd2g2Y28=">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB">
   </a>
