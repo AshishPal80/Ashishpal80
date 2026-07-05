@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ashish Pal :mortar_board:</h1>
-<h3 align="center">A BCA 2nd-year student passionate about Front-End Development & AI</h3>
+<h3 align="center">Front-End Developer in the Making | Exploring the World of AI</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Front-End+Developer+in+the+making;Learning+React.js+%2B+Node.js;Exploring+Generative+AI;Open+to+Internship+Opportunities!" alt="Typing SVG" />
@@ -43,20 +43,6 @@ I'm looking for **Front-End Developer internship opportunities** where I can lea
 
 <br>
 
-## :bulb: Skills
-
-**Front-End & Languages:** Front-End Development, HTML, CSS, JavaScript, C (Programming Language)
-
-**Back-End & APIs:** Node.js, MongoDB, Back-end Operations, REST APIs, API Integration, API Testing, Database Management, CRUD Operations
-
-**Tools:** Git, GitHub, Postman, NPM (Node Package Manager)
-
-**AI & Analysis:** Generative AI (GenAI), Artificial Intelligence (AI), Prompt Engineering, Data Analysis, Research Skills
-
-**Other:** Project Management
-
-<br>
-
 ## :hammer_and_wrench: Tech Stack
 
 <p align="left">
@@ -71,6 +57,18 @@ I'm looking for **Front-End Developer internship opportunities** where I can lea
 <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-008080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Testing-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CRUD%20Operations-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database%20Management-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Back--end%20Operations-3CB371?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-9932CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-BA55D3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-DAA520?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research%20Skills-CD853F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Project%20Management-B22222?style=for-the-badge"/>
 </p>
 
 <br>
