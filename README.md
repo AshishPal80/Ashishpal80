@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Ashish Pal :mortar_board:</h1>
-<h3 align="center">A BCA 2nd-year student on a mission to become a Web Developer</h3>
+<h3 align="center">A BCA 2nd-year student passionate about Front-End Development & AI</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Learning+JavaScript+%2B+React;Exploring+the+world+of+AI;Open+to+Internship+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Front-End+Developer+in+the+making;Learning+React.js+%2B+Node.js;Exploring+Generative+AI;Open+to+Internship+Opportunities!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,19 +27,33 @@
 | | |
 |---|---|
 | :mortar_board: Education | BCA 2nd Year |
-| :computer: Known Languages | C, HTML, CSS |
-| :globe_with_meridians: Currently Learning | JavaScript, React, Databases |
-| :robot: Exploring | AI Tools |
-| :dart: Goal | Internship / Entry-level role in Software Development |
-| :star: Interests | Coding, Web Development, Problem-Solving, Continuous Learning |
+| :computer: Known Languages | C, HTML, CSS, JavaScript |
+| :globe_with_meridians: Currently Learning | React.js, Node.js, MongoDB |
+| :robot: Exploring | Generative AI, Prompt Engineering |
+| :dart: Goal | Front-End Developer Internship |
+| :star: Interests | Front-End Development, JavaScript, React.js, AI, Problem Solving, Continuous Learning |
 
 <br>
 
 ## :pushpin: A Bit More About Me
 
-I'm just getting started on my coding journey, and I'm genuinely excited about it. Right now I'm sharpening my fundamentals in **C, HTML, and CSS**, while pushing forward into **JavaScript, React, and Databases** to become a well-rounded web developer. I also like to experiment with **AI tools** on the side.
+I'm a 2nd-year BCA student passionate about **Front-End Development** and **Artificial Intelligence**. I have knowledge of **HTML, CSS, C, and JavaScript**, and I'm currently learning **React.js** while building real-world projects to sharpen my skills. Along the way I've also picked up **Node.js, MongoDB, and REST API development** to round out my understanding of the full stack.
 
-I'm actively looking for an **internship or entry-level opportunity** where I can learn from experienced developers, contribute to real projects, and keep growing.
+I'm looking for **Front-End Developer internship opportunities** where I can learn, contribute, and gain practical experience while growing as a developer.
+
+<br>
+
+## :bulb: Skills
+
+**Front-End & Languages:** Front-End Development, HTML, CSS, JavaScript, C (Programming Language)
+
+**Back-End & APIs:** Node.js, MongoDB, Back-end Operations, REST APIs, API Integration, API Testing, Database Management, CRUD Operations
+
+**Tools:** Git, GitHub, Postman, NPM (Node Package Manager)
+
+**AI & Analysis:** Generative AI (GenAI), Artificial Intelligence (AI), Prompt Engineering, Data Analysis, Research Skills
+
+**Other:** Project Management
 
 <br>
 
@@ -51,6 +65,10 @@ I'm actively looking for an **internship or entry-level opportunity** where I ca
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -67,7 +85,7 @@ I'm actively looking for an **internship or entry-level opportunity** where I ca
 
 ## :mailbox: Let's Connect
 
-I'm always happy to talk about web development, coding, or internship opportunities - feel free to reach out!
+I'm always happy to talk about front-end development, AI, or internship opportunities - feel free to reach out!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ashish-pal-635a02380">
