@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ashish Pal :mortar_board:</h1>
-<h3 align="center">A BCA 2st-year student on a mission to become a Full Stack Web Developer</h3>
+<h3 align="center">A BCA 2st-year student on a mission to become a Web Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Front-End+Developer+in+the+making;Learning+React.js+%2B+Node.js;Exploring+Generative+AI;Open+to+Internship+Opportunities!" alt="Typing SVG" />
