@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ashish Pal :mortar_board:</h1>
-<h3 align="center">A BCA 1st-year student on a mission to become a Web Developer</h3>
+<h3 align="center">A BCA 2nd-year student on a mission to become a Web Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Learning+JavaScript+%2B+React;Exploring+the+world+of+AI;Open+to+Internship+Opportunities!" alt="Typing SVG" />
@@ -10,7 +10,8 @@
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB">
   </a>
   <a href="https://www.linkedin.com/in/ashish-pal-635a02380" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&amp;logo=linkedin&amp;logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB">
+  </a>
   <a href="https://www.instagram.com/_ashish.pal_23?igsh=bmJzeHRkd2g2Y28=">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB">
   </a>
@@ -25,7 +26,7 @@
 
 | | |
 |---|---|
-| :mortar_board: Education | BCA 1st Year |
+| :mortar_board: Education | BCA 2nd Year |
 | :computer: Known Languages | C, HTML, CSS |
 | :globe_with_meridians: Currently Learning | JavaScript, React, Databases |
 | :robot: Exploring | AI Tools |
