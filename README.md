@@ -57,19 +57,7 @@ I'm looking for **Front-End Developer internship opportunities** where I can lea
 <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-008080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Integration-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Testing-4682B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CRUD%20Operations-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database%20Management-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Back--end%20Operations-3CB371?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-9932CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-BA55D3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-DAA520?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Research%20Skills-CD853F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Project%20Management-B22222?style=for-the-badge"/>
-</p>
+
 
 <br>
 
