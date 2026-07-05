@@ -10,9 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB">
   </a>
   <a href="https://www.linkedin.com/in/ashish-pal-635a02380" target="_blank">
-  <svg viewBox="0 0 24 24" fill="#0A66C2">
-  <path d="M20.45 20.45h-3.55v-5.57c0-1.33-.03-3.04-1.85-3.04-1.85 0-2.13 1.45-2.13 2.95v5.66H9.37V9h3.41v1.56h.05c.47-.9 1.64-1.85 3.38-1.85 3.61 0 4.28 2.38 4.28 5.48v6.26zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.11 20.45H3.56V9h3.55v11.45z"/>
-</svg>
+  <img>
   <a href="https://www.instagram.com/_ashish.pal_23?igsh=bmJzeHRkd2g2Y28=">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB">
   </a>
