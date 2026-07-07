@@ -10,10 +10,10 @@
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB">
   </a>
   <a href="https://www.linkedin.com/in/ashish-pal-635a02380" target="_blank">
-    <img src="">
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB">
   </a>
   <a href="https://www.instagram.com/_ashish.pal_23?igsh=bmJzeHRkd2g2Y28=">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=ins tagram&logoColor=61DAFB">
   </a>
   <a href="https://discordapp.com/users/1105516195089764404">
     <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB">
