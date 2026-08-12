@@ -76,8 +76,7 @@ I'm looking for **Front-End Developer internship opportunities** where I can lea
 ## :bar_chart: GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AshishPal80&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AshishPal80&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
 
 <br>
 
